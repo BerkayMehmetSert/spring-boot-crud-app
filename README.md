@@ -1,2 +1,3 @@
-# spring-boot-crud-app
-Spring Boot CRUD Rest API.
+# Spring Boot CRUD APP
+- Spring Boot
+- PostgreSQL
